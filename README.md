@@ -1,4 +1,6 @@
 Face Detection with OpenCV and MediaPipe
+
+
 This project implements real-time face detection using OpenCV and MediaPipe. It processes live video from your webcam, detects faces, and overlays bounding boxes and facial landmarks on the detected faces.
 
 Features
